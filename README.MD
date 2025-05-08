@@ -1,4 +1,6 @@
-# Proyecto de Ciencia de Datos
+# Proyecto FaceTrack Usta
+
+Facilitar el llamdo de asitencia
 
 ![Banner del Proyecto](https://via.placeholder.com/800x200.png?text=Proyecto+Ciencia+de+Datos)
 
